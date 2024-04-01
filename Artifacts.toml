@@ -1,0 +1,143 @@
+[[AM]]
+arch = "aarch64"
+git-tree-sha1 = "42bbfeb5ad5092ab43d34e3427d6bf0f58f5ea98"
+os = "macos"
+
+    [[AM.download]]
+    sha256 = "bedbf8f966fffcb51b0a640e49d2978e494f5d7b728107716e3d96d5e776abb8"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.aarch64-apple-darwin.tar.gz"
+[[AM]]
+arch = "aarch64"
+git-tree-sha1 = "9a9f0bb47b3f42ea68612654279766db2ddd71c8"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "e1753ee7fd648f93087947a5bf79e4546ac25934359eb9c59e5ff0d29173b9be"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.aarch64-linux-gnu.tar.gz"
+[[AM]]
+arch = "aarch64"
+git-tree-sha1 = "00325e2751e75617195c5145bf8db22771239cc2"
+libc = "musl"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "e6474dfd8a648df45d35373a9083f6b771bcf38b5507307b357f448746e14838"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.aarch64-linux-musl.tar.gz"
+[[AM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2956e12b9ff3b0be84bb353027fb643b8bc0ba8f"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "272c2937627b2364d4001222f77a249275afee8fd66afb5993cf36e8c312acc9"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[AM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "279cc97d86cac8a8d719e0772f01f7a6dc7b2902"
+libc = "musl"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "f548e256e2f1dcf1e6e15cfa9bb9c6daf3b6f2fcf6e26c12e0f6155c0cb9d8b5"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.armv6l-linux-musleabihf.tar.gz"
+[[AM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4e9a0bb75b61fef6c1006b1904184779f1aa96d1"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "51cfc734e02781643183e684bddf439fb8cf1f0d8277a7091d4a736d228d33e8"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[AM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b3837c6f5296c4f6bace9380d900b4bb2a778a43"
+libc = "musl"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "87c14966454a26821b3d8d012bb4ed33dc47571d8c14c8e43327577556b0c3bc"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.armv7l-linux-musleabihf.tar.gz"
+[[AM]]
+arch = "i686"
+git-tree-sha1 = "1dcc681b59ccff8571a8f4edf8d829670ff9be95"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "bac1c99fc6711b9d61b8b099fcc0046da43e2212b422cb5216e205f2018f94a5"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.i686-linux-gnu.tar.gz"
+[[AM]]
+arch = "i686"
+git-tree-sha1 = "e01a6fe5f9878c7eefcc34f0ddd7442c536012af"
+libc = "musl"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "aebc45c57baa2eefceb9fe99a2d1a2a440ccb59f827bbde443990e5fae5e5c15"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.i686-linux-musl.tar.gz"
+[[AM]]
+arch = "i686"
+git-tree-sha1 = "945cbf4f750aca03ed8259fd4f83e561203ac6e7"
+os = "windows"
+
+    [[AM.download]]
+    sha256 = "6c72e376b185a7fd5e3db2ffe3f303908d69b9f3a4cf56187264850b57f89d1c"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.i686-w64-mingw32.tar.gz"
+[[AM]]
+arch = "powerpc64le"
+git-tree-sha1 = "f3ec7b7cfa79a842d5a8a3171ca845a5f09524d9"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "7a710bd5155df364a930ac7a3427740d02fafcba7fdbbb649abf2c56636a8ba4"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.powerpc64le-linux-gnu.tar.gz"
+[[AM]]
+arch = "x86_64"
+git-tree-sha1 = "956192e0ec43539ef962880a47ee371aa5990871"
+os = "macos"
+
+    [[AM.download]]
+    sha256 = "f746b066d3f0c6df736326829e5b402c0484bb251e44b6f38ce2acbf419fd863"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.x86_64-apple-darwin.tar.gz"
+[[AM]]
+arch = "x86_64"
+git-tree-sha1 = "2bff53b4ed3e8f6d797015f9b34b7d7345339fee"
+libc = "glibc"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "4a72d17fda88c6ee3fbf942b68f0b1af2328180540fc802020e905c55cf439ad"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.x86_64-linux-gnu.tar.gz"
+[[AM]]
+arch = "x86_64"
+git-tree-sha1 = "8a209f33787a54b8755213a841e5af830cb7c267"
+libc = "musl"
+os = "linux"
+
+    [[AM.download]]
+    sha256 = "93f1fc70c9d4b19623b82675a7efa01e74037b1f81c0ae807e5534a69cc1cd43"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.x86_64-linux-musl.tar.gz"
+[[AM]]
+arch = "x86_64"
+git-tree-sha1 = "e7014733de88b918d817c07aa36fabe9f9760551"
+os = "freebsd"
+
+    [[AM.download]]
+    sha256 = "cb2733a1b45c00f16e123137a5ce8cdf8559a0c2a44ced3cdd0449a068ee8ab5"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.x86_64-unknown-freebsd.tar.gz"
+[[AM]]
+arch = "x86_64"
+git-tree-sha1 = "be8af61b03704ad48a4a9bc295a90d4f2f6837ef"
+os = "windows"
+
+    [[AM.download]]
+    sha256 = "feabeb4a74de98fe665f6000a25649a987a38d016a985535e7491d2ed996d358"
+    url = "https://github.com/JuliaBinaryWrappers/AM_jll.jl/releases/download/AM-v13.0.0+0/AM.v13.0.0.x86_64-w64-mingw32.tar.gz"
